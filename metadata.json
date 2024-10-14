@@ -31,39 +31,31 @@
     },
     {
       "trait_type": "Solscan",
-      "value": "https://solscan.io/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+      "value": "https://solscan.io/token/mnt8fwiuY1jCicqQ2FUpJoGwe1etZjd6wkZCjqS3Xdz"
     },
     {
       "trait_type": "Raydium",
-      "value": "https://raydium.io/swap/?inputCurrency=mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+      "value": "https://raydium.io/swap/?inputCurrency=mnt8fwiuY1jCicqQ2FUpJoGwe1etZjd6wkZCjqS3Xdz"
     },
     {
       "trait_type": "Jupiter",
       "value": "https://jup.ag/swap/anarki"
     },
     {
-      "trait_type": "DexTools",
-      "value": "https://www.dextools.io/app/en/solana/pair-explorer/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq?t=1728797950724"
-    },
-    {
       "trait_type": "DexScreener",
-      "value": "https://dexscreener.com/solana/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
-    },
-    {
-      "trait_type": "GeckoTerminal",
-      "value": "https://www.geckoterminal.com/solana/pools/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq"
+      "value": "https://dexscreener.com/solana/mnt8fwiuY1jCicqQ2FUpJoGwe1etZjd6wkZCjqS3Xdz"
     },
     {
       "trait_type": "CoinGecko",
-      "value": "https://www.coingecko.com/en/coins/anarcoin2.0"
+      "value": "https://www.coingecko.com/en/coins/anarcoin2.1"
     },
     {
       "trait_type": "CoinMarketCap",
-      "value": "https://coinmarketcap.com/currencies/anarcoin2.0"
+      "value": "https://coinmarketcap.com/currencies/anarcoin2.1"
     },
     {
       "trait_type": "Birdeye",
-      "value": "https://birdeye.so/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo?chain=solana"
+      "value": "https://birdeye.so/token/mnt8fwiuY1jCicqQ2FUpJoGwe1etZjd6wkZCjqS3Xdz?chain=solana"
     },
     {
       "trait_type": "Official Website",
