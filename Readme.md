@@ -17,7 +17,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 to intall rust then set path:
 
-$ source "$HOME/.cargo/env."
+$ source "$HOME/.cargo/env"
 
 then buid:
 
